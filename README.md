@@ -115,5 +115,11 @@
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
                 />
+            </a>
+            <a href="https://www.buymeacoffee.com/scottduller" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
             </a></div>
 <br />
