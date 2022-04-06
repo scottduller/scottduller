@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Scott, a graduate full stack developer👨‍💻I specialise in React.js, Node.js and Docker🚀</div>  
+### <div align="center">I'm Scott, a graduate full stack developer👨‍💻I specialise in React.js, Node.js and Docker🚀</div><br/> 
   
 
 - 🔭 I’m currently working on a [Bug Tracker](https://github.com/scottduller/bug-tracker) application.  
@@ -34,7 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
@@ -118,6 +117,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
